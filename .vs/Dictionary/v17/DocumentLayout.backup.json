@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\frmdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|solutionrelative:frmdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|c:\\users\\asus\\documents\\zalo received files\\project (1)\\dictionary\\frmdictionary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|solutionrelative:frmdictionary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|c:\\users\\asus\\documents\\zalo received files\\project (1)\\dictionary\\frmdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|solutionrelative:frmdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|c:\\users\\asus\\documents\\zalo received files\\project (1)\\dictionary\\model\\dictionaryapientries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|solutionrelative:model\\dictionaryapientries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|c:\\users\\asus\\documents\\zalo received files\\project (1)\\dictionary\\model\\define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|solutionrelative:model\\define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|c:\\users\\asus\\documents\\zalo received files\\project (1)\\dictionary\\model\\mean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|solutionrelative:model\\mean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|c:\\users\\asus\\documents\\zalo received files\\project (1)\\dictionary\\model\\phonetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E85151-36F0-43ED-B358-7E685D477274}|Dictionary.csproj|solutionrelative:model\\phonetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\frmDictionary.cs",
+              "RelativeDocumentMoniker": "frmDictionary.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\frmDictionary.cs",
+              "RelativeToolTip": "frmDictionary.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwI4BAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:16:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDictionary.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\frmDictionary.Designer.cs",
+              "RelativeDocumentMoniker": "frmDictionary.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\frmDictionary.Designer.cs",
+              "RelativeToolTip": "frmDictionary.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:19:48.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Define.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\Model\\Define.cs",
+              "RelativeDocumentMoniker": "Model\\Define.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\Model\\Define.cs",
+              "RelativeToolTip": "Model\\Define.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:19:33.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DictionaryApiEntries.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\Model\\DictionaryApiEntries.cs",
+              "RelativeDocumentMoniker": "Model\\DictionaryApiEntries.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\Model\\DictionaryApiEntries.cs",
+              "RelativeToolTip": "Model\\DictionaryApiEntries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:19:36.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDictionary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\frmDictionary.cs",
+              "RelativeDocumentMoniker": "frmDictionary.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\frmDictionary.cs [Design]",
+              "RelativeToolTip": "frmDictionary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:16:07.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mean.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\Model\\Mean.cs",
+              "RelativeDocumentMoniker": "Model\\Mean.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\Model\\Mean.cs",
+              "RelativeToolTip": "Model\\Mean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:19:37.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Phonetic.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\Model\\Phonetic.cs",
+              "RelativeDocumentMoniker": "Model\\Phonetic.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\Project (1)\\Dictionary\\Model\\Phonetic.cs",
+              "RelativeToolTip": "Model\\Phonetic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:19:39.253Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
